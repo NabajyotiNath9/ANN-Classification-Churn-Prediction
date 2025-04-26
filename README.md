@@ -8,5 +8,4 @@ This project uses an **Artificial Neural Network (ANN)** to predict customer chu
 - Model compiled with `binary_crossentropy` and `adam` optimizer
 - Additional experiment with `mean_absolute_error` loss function
 - Encoders and Scalers serialized with `pickle`
-- Clean modular code with reusable notebooks and scripts
 - Interactive UI built using **Streamlit**
